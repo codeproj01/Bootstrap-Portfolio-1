@@ -63,6 +63,10 @@ h3 {
   border-bottom: 2px solid #cccccc;
 }
 
+.photo-label-text {
+  color: #ffffff;
+}
+
 #logo {
   float: left;
   width: 250px;
